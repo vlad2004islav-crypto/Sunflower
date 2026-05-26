@@ -27,8 +27,9 @@
 - `lcd1602_i2c.h` - обозначение регистров
 - `servo.h` —  преобразования угла в импульс
 - `adc.h` — преобразование показаний датчиков в %
+## 🔧 Структурная схема устройства
 ## ▶️ Демонстрация работы
 <a href="https://youtu.be/8Tn7tHekYF4">
   <img src="https://i9.ytimg.com/vi_webp/8Tn7tHekYF4/mqdefault.webp?v=6a156af6&sqp=CPDU1dAG&rs=AOn4CLANkgBsZj1f2-n5xe3S8d-XJ2dJFw" alt="Видео работы Подсолнуха" width="600">
 </a>
-## 🔧 Структурная схема устройства
+
