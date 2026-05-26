@@ -33,6 +33,6 @@
 ![Блок-схема алгоритма Подсолнуха](https://github.com/vlad2004islav-crypto/Sunflower/blob/main/Schems/Block-schem.png?raw=true)
 ## ▶️ Демонстрация работы
 <a href="https://youtu.be/8Tn7tHekYF4">
-  <img src="https://i9.ytimg.com/vi_webp/8Tn7tHekYF4/mqdefault.webp?v=6a156af6&sqp=CPDU1dAG&rs=AOn4CLANkgBsZj1f2-n5xe3S8d-XJ2dJFw" alt="Видео работы Подсолнуха" width="600">
+  <img src="https://i9.ytimg.com/vi_webp/8Tn7tHekYF4/mqdefault.webp?v=6a156af6&sqp=CIjg19AG&rs=AOn4CLAVRe0RKyzAplPDv0S20i83kuu-ZA" alt="Видео работы Подсолнуха" width="600">
 </a>
 
