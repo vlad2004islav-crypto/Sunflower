@@ -27,3 +27,6 @@
 - `lcd1602_i2c.h` - обозначение регистров
 - `servo.h` —  преобразования угла в импульс
 - `adc.h` — преобразование показаний датчиков в %
+<a href="https://youtu.be/8Tn7tHekYF4">
+  <img src="https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg" alt="Видео работы Подсолнуха" width="600">
+</a>
