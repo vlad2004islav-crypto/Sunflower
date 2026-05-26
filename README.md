@@ -28,7 +28,7 @@
 - `servo.h` —  преобразования угла в импульс
 - `adc.h` — преобразование показаний датчиков в %
 ## 🔧 Структурная схема устройства
-![Структурная схема Подсолнуха](https://github.com/vlad2004islav-crypto/Sunflower/blob/main/%D0%A1%D1%85%D0%B5%D0%BC%D1%8B/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png?raw=true)
+![Структурная схема Подсолнуха](https://github.com/vlad2004islav-crypto/Sunflower/blob/main/Structure%20schem.png?raw=true)
 ## ▶️ Демонстрация работы
 <a href="https://youtu.be/8Tn7tHekYF4">
   <img src="https://i9.ytimg.com/vi_webp/8Tn7tHekYF4/mqdefault.webp?v=6a156af6&sqp=CPDU1dAG&rs=AOn4CLANkgBsZj1f2-n5xe3S8d-XJ2dJFw" alt="Видео работы Подсолнуха" width="600">
